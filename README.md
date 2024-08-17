@@ -1,5 +1,3 @@
-# Hi there! I'm [Your Name] 👋
-
 I'm a software engineer currently working at Sensedia, with a knack for diving into interesting side projects in my free time. Always excited to learn and build new things!
 
 ## 🛠️ Tech Stack
