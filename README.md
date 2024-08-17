@@ -1,6 +1,6 @@
 I'm a software engineer currently working at Sensedia, with a knack for diving into interesting side projects in my free time. Always excited to learn and build new things!
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: 
   - Go (Golang) - my primary language for building robust and efficient services
@@ -14,7 +14,7 @@ I'm a software engineer currently working at Sensedia, with a knack for diving i
   - Creating orchestrated services for productivity and hobbies
   - Enhancing DSA skills and exploring ML applications
 
-## 🚀 What I'm Up To
+## What I'm Up To
 
 I'm passionate about leveraging a wide range of technologies to improve daily life and enhance my hobbies. You'll often find me:
 - Automating repetitive tasks
@@ -22,18 +22,6 @@ I'm passionate about leveraging a wide range of technologies to improve daily li
 - Creating applications that make life a bit easier (or at least more interesting)
 - Exploring the capabilities of different programming languages and frameworks
 - Diving into algorithmic challenges and machine learning projects
-
-## 🌱 Learning Goals
-
-- Deepening my expertise in Go and exploring its ecosystem further
-- Advancing my skills in Spring Boot, FastAPI, and Django
-- Keeping up with the evolving Node.js and Deno ecosystems
-- Exploring advanced patterns in CLI design
-- Diving into microservices architecture and orchestration
-- Strengthening my foundation in Data Structures and Algorithms
-- Expanding my knowledge and practical skills in Machine Learning
-
-## 🤝 Let's Connect!
 
 I'm always open to discussing technology, sharing ideas, or collaborating on interesting projects across various programming languages and domains. Whether it's backend, frontend, or data science, I'm eager to learn and contribute. Feel free to reach out:
 
