@@ -6,7 +6,7 @@ Always open to tech discussions and collaborations, feel free to reach out throu
 
 - **Backend**: Go (primary), Java (Spring Boot), Python (FastAPI, Django), Node.js, Deno
 - **Frontend**: Experienced with Next.js/React, Svelte/SvelteKit, and Astro
-- **Data & AI**: Currently following Andrew Ng's and Karpathy courses. Using a lot of this [ML Stash](https://arc.net/e/D242E263-31FD-4CF9-A2D5-B67519C049AF?s=08).
+- **Data & AI**: Currently following Andrew Ng's and Karpathy courses. Exploring [ML Stash](https://arc.net/e/D242E263-31FD-4CF9-A2D5-B67519C049AF?s=08)
 - **Current Focus**: CLI apps, orchestrated services, DSA & ML
 
 
