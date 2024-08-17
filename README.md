@@ -14,15 +14,6 @@ I'm a software engineer currently working at Sensedia, with a knack for diving i
   - Creating orchestrated services for productivity and hobbies
   - Enhancing DSA skills and exploring ML applications
 
-## What I'm Up To
-
-I'm passionate about leveraging a wide range of technologies to improve daily life and enhance my hobbies. You'll often find me:
-- Automating repetitive tasks
-- Building tools to manage various projects
-- Creating applications that make life a bit easier (or at least more interesting)
-- Exploring the capabilities of different programming languages and frameworks
-- Diving into algorithmic challenges and machine learning projects
-
 I'm always open to discussing technology, sharing ideas, or collaborating on interesting projects across various programming languages and domains. Whether it's backend, frontend, or data science, I'm eager to learn and contribute. Feel free to reach out:
 
 - [Email](mailto:luis@lutheir.com?subject=Hey)
