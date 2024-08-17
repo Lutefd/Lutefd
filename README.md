@@ -1,4 +1,6 @@
-I'm a software engineer currently working at Sensedia, with a knack for diving into interesting side projects in my free time. Always excited to learn and build new things!
+I'm a software engineer currently working at Sensedia, with a knack for diving into way too many side projects in my free time.
+
+I'm always open to discussing technology, sharing ideas, or collaborating on interesting projects across various programming languages and domains. Whether it's backend, frontend, or data science, I'm eager to learn and contribute. Feel free to reach out through [email](mailto:luis@lutheir.com?subject=Hey) or [twitter/x](https://x.com/luistebaf).
 
 ## Tech Stack
 
@@ -13,10 +15,3 @@ I'm a software engineer currently working at Sensedia, with a knack for diving i
   - Developing CLI applications
   - Creating orchestrated services for productivity and hobbies
   - Enhancing DSA skills and exploring ML applications
-
-I'm always open to discussing technology, sharing ideas, or collaborating on interesting projects across various programming languages and domains. Whether it's backend, frontend, or data science, I'm eager to learn and contribute. Feel free to reach out:
-
-- [Email](mailto:luis@lutheir.com?subject=Hey)
-- [Twitter/x](https://x.com/luistebaf)
-
-Take a look at my repositories and don't hesitate to drop me a message if anything catches your eye. Looking forward to connecting and possibly collaborating!
