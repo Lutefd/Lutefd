@@ -1,6 +1,6 @@
 I'm a software engineer currently working at Sensedia, with a knack for diving into way too many side projects in my free time.
 
-Always open to tech discussions and collaborations, feel free to reach out through [email](mailto:luis@lutheir.com?subject=Hey) or [twitter/x](https://x.com/luistebaf).
+Always open to tech discussions and collaborations, feel free to reach out through [email](mailto:luis@lutheir.com?subject=Hey) or [bluesky](https://bsky.luisdourado.com/).
 
 ## Tech Stack
 
